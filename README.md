@@ -23,11 +23,11 @@ We create model for breast cancer prediction model using convolutional neural ne
 ### Output preview
 
 #### Training and validation accuracy
-<img src='https://github.com/JafirDon/Breast_Cancer_Prediction_CNN/blob/main/acc.jpg'></img>
+<img src='https://github.com/JafirDon/Simple-Text-Classification-using-LSTM/blob/main/acc.jpg'></img>
 <br>
 <br>
 #### Training and validation loss
-<img src='https://github.com/JafirDon/Breast_Cancer_Prediction_CNN/blob/main/loss.jpg'></img>
+<img src='https://github.com/JafirDon/Simple-Text-Classification-using-LSTM/blob/main/loss.jpg'></img>
 <br>
 <br>
 ## License
