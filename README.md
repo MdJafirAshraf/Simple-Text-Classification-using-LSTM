@@ -9,7 +9,7 @@ To run the web app on your local computer, install the required libraries, These
 Run the following command in terminal to install the required packages.<br><br>
 `pip install -r requirement.txt` <br><br>
 or<br><br>
-if you use jupyter notebook run the following command in anaconda prompt terminal to install the required packages.<br><br>
+If you use jupyter notebook run the following command in anaconda prompt terminal to install the required packages.<br><br>
 
 `conda install --file requirements.txt`
 <br>
