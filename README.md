@@ -1,7 +1,7 @@
 # Simple-Text-Classification-using-LSTM
 
 I created Breast Cancer prediction using Convolutional neural network on breast cancer data, which I have implemented using Keras.<br><br>
-If you want to more clear explonation, see my blog [ ]( )
+If you want to more clear explonation, see my blog [Simple Text Classification using LSTM for Beginners](https://techyscientists.blogspot.com/2021/09/simple-text-classification-using-lstm.html)
 
 ## Installation
 
