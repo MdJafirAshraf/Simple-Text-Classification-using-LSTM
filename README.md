@@ -1,6 +1,6 @@
 # Simple-Text-Classification-using-LSTM
 
-I created Breast Cancer prediction using Convolutional neural network on breast cancer data, which I have implemented using Keras.<br><br>
+I created Simple Text Classification using LSTM (Long Short Term Memory) on IMDB movie review sentiment classification dataset, which I have implemented using Keras.<br><br>
 If you want to more clear explonation, see my blog  [Simple Text Classification using LSTM for Beginners](https://techyscientists.blogspot.com/2021/09/simple-text-classification-using-lstm.html)
 
 ## Installation
@@ -17,7 +17,7 @@ If you use jupyter notebook run the following command in anaconda prompt termina
 
 ## Getting Started
 
-We create model for breast cancer prediction model using convolutional neural network. It is type of deep learning networks. It is used for classification, segmentation and image processing problems. In this neural network, extract the features from input layer and perform mathematical convolutional operation. 
+We create model for simple text classification using LSTM. It is type of deep learning networks. It is variation of reccurent neural network. In this neural network, has feedback connections. 
 <br><br>
 
 ### Output preview
